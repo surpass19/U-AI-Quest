@@ -9,3 +9,8 @@ R2 : 0.62
 testデータ　<br>
 RMSE : 106.45 <br>
 R2 : 0.604
+
+## model-khold3
+testデータ　<br>
+RMSE : 105.62 <br>
+R2 : 0.61
