@@ -18,3 +18,9 @@ testデータ　<br>
 
 ## model-hold3 ⇨ model-hold-submit
 PB 168.48
+
+## model-khold3
+testデータ　<br>
+* RMSE : 106.9 <br>
+* R2 : 0.59
+* PB 160.48
