@@ -41,5 +41,10 @@ Params:
     bagging_freq: 0<br>
     min_child_samples: 10<br>
  PB：179.2199942
-    
 
+## 初めて知った
+説明・目的変数の対数化
+
+## もっとやればよかった？
+年代や月のsin化
+PCA
