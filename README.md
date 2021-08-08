@@ -19,8 +19,27 @@ testデータ　<br>
 ## model-hold3 ⇨ model-hold-submit
 PB 168.48
 
-## model-khold3
+## model-khold3-2
 testデータ　<br>
 * RMSE : 106.9 <br>
 * R2 : 0.59
 * PB 160.48
+
+## model-khold3-2
+testデータ　<br>
+logあり　<br>
+Params: 
+    objective: regression<br>
+    metric: rmse<br>
+    random_seed: 0<br>
+    feature_pre_filter: False<br>
+    lambda_l1: 0.24341699147974324<br>
+    lambda_l2: 8.890301958197547<br>
+    num_leaves: 31<br>
+    feature_fraction: 0.4<br>
+    bagging_fraction: 1.0<br>
+    bagging_freq: 0<br>
+    min_child_samples: 10<br>
+ PB：179.2199942
+    
+
