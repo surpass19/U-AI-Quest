@@ -50,3 +50,4 @@ Params:
 年代や月のsin化
 PCA
 いろんなモデル試す
+各種集約特徴量(zscore, deviation, std) → Github:AIQuest_other
