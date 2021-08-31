@@ -46,8 +46,8 @@ Params:
 説明・目的変数の対数化
 
 ## もっとやればよかった？
-自然言語の扱い
-年代や月のsin化
-PCA
-いろんなモデル試す
-各種集約特徴量(zscore, deviation, std) → Github:AIQuest_other
+自然言語の扱い <br>
+年代や月のsin化 <br>
+PCA <br>
+いろんなモデル試す <br>
+各種集約特徴量(zscore, deviation, std) → Github:AIQuest_other <br>
