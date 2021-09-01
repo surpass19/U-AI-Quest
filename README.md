@@ -1,31 +1,42 @@
 # U-AI-Quest
 
-## model-hold2
+## 初めて知った(組み込んだ)
+説明・目的変数の対数化
+
+## もっとやればよかった？(組み込んでない)
+自然言語の扱い <br>
+年代や月のsin化 <br>
+PCA <br>
+いろんなモデル試す <br>
+各種集約特徴量(zscore, deviation, std) → Github:AIQuest_other <br>
+
+## 結果
+### model-hold2
 validデータ　✖️<br>
 * RMSE : 104.19 <br>
 * R2 : 0.62
 
-## model-hold3
+### model-hold3
 testデータ　<br>
 * RMSE : 106.45 <br>
 * R2 : 0.604
 
-## model-khold3
+### model-khold3
 testデータ　<br>
 * RMSE : 105.62 <br>
 * R2 : 0.61
 
 
-## model-hold3 ⇨ model-hold-submit
+### model-hold3 ⇨ model-hold-submit
 PB 168.48
 
-## model-khold3-2 (提出)
+### model-khold3-2 (提出)
 testデータ　<br>
 * RMSE : 106.9 <br>
 * R2 : 0.59
 * PB 160.48
 
-## model-khold3-2
+### model-khold3-2
 testデータ　<br>
 logあり　<br>
 Params: 
@@ -41,13 +52,3 @@ Params:
     bagging_freq: 0<br>
     min_child_samples: 10<br>
  PB：179.2199942
-
-## 初めて知った
-説明・目的変数の対数化
-
-## もっとやればよかった？
-自然言語の扱い <br>
-年代や月のsin化 <br>
-PCA <br>
-いろんなモデル試す <br>
-各種集約特徴量(zscore, deviation, std) → Github:AIQuest_other <br>
